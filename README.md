@@ -1,4 +1,4 @@
-# 🎓 Amity Placement Portal
+# 🎓 Placement Portal
 
 A modern web application for managing student placements, company interactions, and job opportunities.
 
@@ -133,7 +133,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Saurabh  - Initial work
 
 ## 🙏 Acknowledgments
 
